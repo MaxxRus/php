@@ -1,0 +1,2 @@
+test file for read and write
+This is textThis is textThis is textThis is textThis is textThis is text
